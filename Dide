@@ -1,0 +1,7 @@
+UPDATE DONE ALL METHODS ✅️
+VERSION 9.9.3💚
+
+rm -rf MAFIA
+ git clone  https://github.com/JXB-OKK/MAFIA
+cd MAFIA
+python Rine.py
